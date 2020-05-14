@@ -1,5 +1,8 @@
 # Created by Iqbal Dev
 # Tools Multi Brute Force Facebook Ringan
+#=============================================
+# J A N G A N   D I   R E C O D E.  N J I N G 
+#=============================================
 
 import os 
 import sys
